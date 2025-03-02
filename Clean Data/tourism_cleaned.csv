@@ -1,0 +1,78 @@
+Rank,Attraction,Popularity,Experience,Affordability,Safety,Total,City,State
+1,Central Park,0.98,1.85,0.73,0.52,4.075,New York,NY
+2,National Mall,0.69,1.84,0.92,0.55,3.994,"Washington, D.C.",VA
+3,Balboa Park,0.55,1.86,0.89,0.49,3.795,San Diego,CA
+4,Smithsonian National Museum of Natural History,0.5,1.82,0.91,0.55,3.775,"Washington, D.C.",VA
+5,Times Square,0.84,1.64,0.73,0.52,3.73,New York,NY
+6,Rockefeller Center,0.77,1.74,0.69,0.52,3.721,New York,NY
+7,Niagara Falls,0.66,1.83,0.71,0.52,3.719,Buffalo/ NY,
+8,Golden Gate Park,0.49,1.91,0.83,0.49,3.7187,San Francisco,CA
+9,Magic Kingdom Park,0.85,1.52,0.95,0.4,3.714,Orlando,FL
+10,Brooklyn Bridge Park,0.48,1.96,0.73,0.52,3.695,New York,NY
+11,Hoover Dam,0.49,1.82,0.89,0.48,3.684,Boulder City,Nevada
+12,The High Line,0.51,1.92,0.73,0.52,3.6838,New York,NY
+13,Fountains of Bellagio,0.51,1.87,0.83,0.48,3.68,Las Vegas,Nevada
+14,Garden of the Gods,0.5,1.93,0.8,0.44,3.669,Colorado Springs,Colorado
+15,The Metropolitan Museum of Art,0.57,1.9,0.67,0.52,3.668,New York,NY
+16,Zion National Park,0.48,1.71,0.83,0.63,3.657,Utah,
+17,San Antonio River Walk,0.47,1.9,0.92,0.37,3.656,San Antonio,TX
+18,ICON Park,0.47,1.81,0.96,0.4,3.639,Orlando,FL
+19,Golden Gate Bridge,0.56,1.73,0.86,0.49,3.636,San Francisco,CA
+20,Brooklyn Bridge,0.56,1.83,0.72,0.52,3.626,New York,NY
+21,Bryant Park,0.59,1.82,0.69,0.52,3.614,New York,NY
+22,Red Rocks Park and Amphitheatre,0.52,1.85,0.8,0.44,3.602,Morrison,Colorado
+23,The Museum of Modern Art,0.49,1.79,0.79,0.52,3.582,New York,NY
+24,Epcot,0.69,1.61,0.87,0.4,3.57,Orlando,FL
+25,USS Midway Museum,0.5,1.87,0.71,0.49,3.567,San Diego,CA
+26,9/11 Memorial & Museum,0.57,1.79,0.69,0.52,3.566,New York,NY
+27,Disney’s Animal Kingdom Theme Park,0.66,1.67,0.84,0.4,3.564,Orlando,FL
+28,Empire State Building,0.61,1.72,0.7,0.52,3.55,New York,NY
+29,Statue of Liberty,0.6,1.79,0.63,0.52,3.549,New York,NY
+30,Georgia Aquarium,0.54,1.66,0.89,0.45,3.54,Atlanta,GA
+31,Fenway Park,0.48,1.84,0.62,0.6,3.54,Boston,Massachusetts
+32,Mount Rushmore National Memorial,0.49,1.88,0.73,0.43,3.53,Keystone,South Dakota
+33,Griffith Park,0.53,1.81,0.69,0.49,3.521,Los Angeles,CA
+34,AT&T Stadium,0.47,1.8,0.88,0.37,3.52,Arlington,Texas
+35,Grand Canyon National Park,0.53,1.86,0.61,0.53,3.52,Tusayan,Arizona
+36,Alcatraz Island,0.47,1.75,0.8,0.49,3.516,San Francisco,CA
+37,Intrepid Museum,0.46,1.77,0.76,0.52,3.515,New York,NY
+38,Millennium Park,0.56,1.75,0.72,0.48,3.506,Chicago,Illinois
+39,San Diego Zoo,0.51,1.66,0.84,0.49,3.495,San Diego,CA
+40,Great Smoky Mountains National Park,0.51,1.79,0.77,0.41,3.488,Gatlinburg,Tennessee
+41,Dodger Stadium,0.48,1.71,0.8,0.49,3.484,Los Angeles,CA
+42,Universal Studios Hollywood,0.71,1.57,0.71,0.49,3.478,Los Angeles,CA
+43,Wynwood Walls,0.48,1.73,0.82,0.4,3.428,Miami,FL
+44,Universal Studios Florida,0.68,1.41,0.92,0.4,3.409,Orlando,FL
+45,Navy Pier,0.54,1.76,0.62,0.48,3.399,Chicago,Illinois
+46,Disney California Adventure Park,0.53,1.56,0.82,0.49,3.398,Anaheim,CA
+47,Space Center Houston,0.47,1.63,0.92,0.37,3.388,Houston,Texas
+48,Disney’s Hollywood Studios,0.66,1.48,0.84,0.4,3.379,Orlando,FL
+49,Smithsonian National Zoological Park,0.47,1.43,0.94,0.55,3.378,"Washington, D.C.",VA
+50,Yankee Stadium,0.5,1.65,0.71,0.52,3.375,New York,NY
+51,Yellowstone National Park,0.49,1.84,0.49,0.54,3.36,West Yellowstone,WY
+52,The Island in Pigeon Forge,0.5,1.74,0.69,0.41,3.348,Pigeon Forge,Tennessee
+53,Yosemite National Park,0.5,1.8,0.55,0.49,3.343,California,
+54,Houston Zoo,0.46,1.61,0.9,0.37,3.34,Houston,Texas
+55,The Alamo,0.5,1.58,0.88,0.37,3.331,San Antonio,TX
+56,Santa Cruz Beach Boardwalk,0.47,1.71,0.66,0.49,3.331,San Francisco,CA
+57,Dollywood,0.48,1.6,0.82,0.41,3.314,Pigeon Forge,Tennessee
+58,Hersheypark,0.49,1.59,0.73,0.49,3.302,Hershey,Pennsylvania
+59,Universal Islands of Adventure,0.59,1.59,0.72,0.4,3.3,Orlando,FL
+60,The Battery,0.53,1.51,0.72,0.52,3.281,New York,NY
+61,Ripley’s Aquarium of the Smokies,0.46,1.67,0.73,0.41,3.275,Gatlinburg,Tennessee
+62,John F. Kennedy Space Center,0.5,1.53,0.83,0.4,3.25,Titusville,FL
+63,Smithsonian National Air and Space Museum,0.47,1.32,0.91,0.55,3.247,"Washington, D.C.",VA
+64,Santa Monica Pier,0.63,1.62,0.51,0.49,3.245,Los Angeles,CA
+65,Space Needle,0.48,1.61,0.46,0.59,3.15,Seattle,Washington
+66,Knott’s Berry Farm,0.51,1.23,0.9,0.49,3.133,Anaheim,CA
+67,Monterey Bay Aquarium,0.47,1.48,0.66,0.49,3.105,Monterey,CA
+68,Stone Mountain Park,0.46,1.35,0.84,0.45,3.1,Georgia,
+69,SeaWorld Orlando,0.57,1.17,0.88,0.4,3.012,Orlando,FL
+70,Southernmost Point of the Continental U.S.A.,0.45,1.38,0.68,0.4,2.901,Key West,FL
+71,Busch Gardens Tampa Bay,0.55,1.12,0.81,0.4,2.878,Tampa,FL
+72,Disneyland Park,0.62,1.04,0.72,0.49,2.871,Los Angeles,CA
+73,Cedar Point,0.49,1.32,0.43,0.45,2.685,Sandusky,Ohio
+74,Six Flags Magic Mountain,0.47,0.97,0.61,0.49,2.535,Santa Clarita,CA
+75,Six Flags Great Adventure,0.46,0.73,0.73,0.55,2.465,Jackson,NJ
+76,SeaWorld San Diego,0.46,0.9,0.53,0.49,2.381,San Diego,CA
+77,Hollywood Walk of Fame,0.42,0.68,0.68,0.49,2.272,Los Angeles,CA
